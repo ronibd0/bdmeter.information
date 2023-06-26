@@ -1,10 +1,12 @@
-baseURL: https://theme.hbstack.dev/
-title: HB Starter Theme Template
+baseURL: https://bdmeter.info
+title: Bdmeter
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+copyright: "Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved."
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
+defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
+disqusShortname: bdm-site
 enableRobotsTXT: true
+canonifyURLs: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true
 
@@ -119,4 +121,10 @@ security:
       - ^HUGO
       - CI$
       - PWD
+
+
+params:
+  google_adsense: ca-pub-6173503627170942
+  google-analytics: UA-163333643-1
+
 

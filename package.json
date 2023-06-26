@@ -1,24 +1,29 @@
 {
-  "name": "hb-theme",
-  "description": "The starter theme template of [HB Framework](https://hbstack.dev/).",
+  "name": "bdm-theme",
+  "description": "The Bdmeter theme of [BDM Framework](https://bdmeter.info).",
   "scripts": {
     "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
     "prod": "hugo server --gc --disableFastRender --enableGitInfo --renderToDisk --minify -e production -p 1314"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hbstack/theme.git"
+    "url": "git+https://github.com/ronibd0/bdmeter.info.git"
   },
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "Ronibd0 <ronibd0@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hbstack/theme/issues"
+    "url": "https://github.com/ronibd0/bdmeter.info/issues"
   },
-  "homepage": "https://github.com/hbstack/theme#readme",
+  "homepage": "https://github.com/ronibd0/bdmeter.info#readme",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.14",
     "postcss-cli": "^10.1.0",
     "rtlcss": "^4.0.0"
+  },
+  "dependencies": {
+    "giscus": "^1.2.8",
+    "typescript": "^5.1.3",
+    "videojs-ima": "^2.1.0"
   }
 }

@@ -2,23 +2,23 @@ main:
   - name: Support
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: https://bdmeter.info/page/2023/03/2023-03-17-contact/
     params:
-      header: The HB support community.
+      header: The BDM support community.
       icon:
         vendor: font-awesome-solid
         name: headset
 
-  - name: Documentations
+  - name: Contact
     parent: support
-    url: https://hbstack.dev/
+    url: page/2023/03/2023-03-17-contact
     weight: 1
     params:
       icon:
-        vendor: bs
-        name: book
+        vendor: font-awesome-solid
+        name: headset
         className: text-primary
-      description: The documentations.
+      description: Contact us.
 
   - identifier: support-divider
     parent: support
@@ -26,19 +26,19 @@ main:
     params:
       divider: true
 
-  - name: GitHub
+  - name: Privacy Policy
     parent: support
-    url: https://github.com/hbstack
+    url: page/2020/11/2020-11-19-privacy-policy
     weight: 11
     params:
       icon:
-        vendor: fab
-        name: github
-      description: The code repository.
+        vendor: font-awesome-solid
+        name: headset
+      description: The privacy policy of Bdmeter.
 
   - name: Discussion
     parent: support
-    url: https://github.com/orgs/hbstack/discussions
+    url: https://github.com/orgs/bdmeter/discussions
     weight: 12
     params:
       icon:
@@ -47,24 +47,35 @@ main:
         color: green
       description: Ask questions and share your ideas.
 
-  - name: Bug Report
+  - name: Advertise with us
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs
+    url: page/2020/11/2020-11-21-advertise-with-us/
     weight: 13
     params:
       icon:
         vendor: font-awesome-solid
-        name: bug
+        name: headset
         color: red
-      description: Tell us about a bug or issue.
+      description: Advertise with Bdmeter.
 
-  - name: Feature Request
+  - name: Newsletter
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=ideas
+    url: page/2023/03/2023-03-20-newsletter/
     weight: 14
     params:
       icon:
         vendor: font-awesome-regular
         name: lightbulb
         color: orange
-      description: Suggest new or updated features.
+      description: Subscribe to get latest articles newsletter in your inbox.
+
+  - name: Earn online
+    parent: support
+    url: page/2023/03/2023-03-26-earn/
+    weight: 15
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: green
+      description: Application to earn online per hour.

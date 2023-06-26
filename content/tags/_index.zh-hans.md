@@ -1,5 +1,5 @@
 ---
-title: 标签
+title: Tags
 menu:
   main:
     parent: blog
@@ -8,5 +8,5 @@ menu:
         vendor: bs
         name: tags
         color: green
-      description: 所有标签。
+      description: All of tags.
 ---

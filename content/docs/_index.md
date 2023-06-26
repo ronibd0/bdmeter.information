@@ -9,4 +9,6 @@ menu:
         name: book
 ---
 
-The example of Docs layout.
+This is the documentation part of Bdmeter technology. This part will cover different business and industry installation to end user product operations guidelines. Keep your eyes on us.
+
+- coming soon! 

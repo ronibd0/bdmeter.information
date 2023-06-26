@@ -1,8 +1,8 @@
 ---
-title: HB 主题模板
+title: Bdmeter
 # menu:
 #   main:
-#     name: 主页
+#     name: home
 #     weight: 1
 #     params:
 #       icon:

@@ -1,5 +1,5 @@
 ---
-title: 分类
+title: Categories
 menu:
   main:
     parent: blog
@@ -8,5 +8,5 @@ menu:
         vendor: bs
         name: folder
         color: orange
-      description: 所有分类。
+      description: All of categories.
 ---

@@ -1,5 +1,5 @@
 ---
-title: 专栏
+title: Series
 menu:
   main:
     parent: blog
@@ -7,5 +7,5 @@ menu:
       icon:
         vendor: bs
         name: columns
-      description: 所有专栏。
+      description: All of the series.
 ---
