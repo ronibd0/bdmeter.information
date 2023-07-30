@@ -1,12 +1,13 @@
 ---
 title: "Haptic And Sound Correlations In Textiles"
 date: "2023-07-30"
+description: "A series of inquiries in physical computing, the present text will present a series of new configurations between texture, touch and sound and the connections between them in both analogue and digital environments."
 categories: 
   - "Textile"
   - "Environment"
   - "Health"
 tags: 
-  - "Haptic,"
+  - "Haptic"
   - "sound"
   - "sound sensors"
   - "touch sensors"
@@ -15,9 +16,6 @@ tags:
 ---
 
 ## Introduction:
-
-https://www.academia.edu/10747466/HAPTIC_AND_SOUND_CORRELATIONS_IN_TEXTILES
-
 
 If some time ago textile materials were considered good sound insulators, their present programmability is about to change their definition, transforming them into musical instruments and tools of sound measurement and visualization. By comparison to the analogue world, the notions of texture and touch are gaining new connotations, while the new textures and ‘smart gestures’ are introducing a new expressivity. Following a series of inquiries in physical computing, the present text will present a series of new configurations between texture, touch and sound and the connections between them in both analogue and digital environments. The paper will focus on a series of practice-based research related to the integration of touch and sound sensors into textile structures, as well as on the translation of sound components into dynamic textile patterns. 
 
@@ -96,4 +94,35 @@ The E-Static Shadows by Zane Berzina and Jackson Tan investigates the aesthetics
 ### Text in Textiles
 
 Anna Biro started to work on the concept of Text in Textile installation about a decade ago when she weaved a series of fabrics on a computerized jacquard handloom using audiotape as thread. The tapes were discarded by an anthropologist who preliminary had used them for the recording of a series of interviews with immigrants living in Montreal. The artist used the recordings in order to give a second life to this rich collection of memories. While touching the tapes weaved fabric, we activate the recordings from the tape. Text in Textiles is composed of three individual pieces, where the visitors are active participants in a tactile and acoustic creative process. As they walk across the sound carpet, their feet trigger a chorus of voices depending on when and where you step. Playback frequency is determined by a single resistor (a simple electronic component); thus the human body acts like a resistor, becoming part of the circuit and affecting the replay of the recordings.
+
+![Figure 1. Anna Biro, Text in Textiles, Interactive installation. Montréal, arts interculturels (MAI), April 2010. Photo credits: Paul Lithermand.](images/anna-biro-Photo%20credits:-Paul-Lithermand.png)
+
+### XY Interaction
+
+XY Interaction is a musical fabric conceived by Maurin Donneaud. It is a project which translates into practice the idea
+of a fabric that could be an expressive surface for interpretation, as well as a platform for electronic music
+composition. The softness of textiles brings a somehow immaterial dimension to the fact that XY Interface is a sort of
+hardware. There is also a connection between the softness of the textile material and the nature of the sound,
+between the almost danced gestures and the music. The sound elements are graphically represented on the fabric, enabling the composer to locate them and play (with) them. Several possible gestures were taken into consideration
+and special software was conceived for the interpretation of the gesture vocabulary. A matrix based textile sensor was
+integrated into the fabric’s structure in order to catch all the gestures performed on the fabric. If the composer draws
+a circle on the surface of the fabric, or a triangle, the computer is informed about this sign and it can then navigate in
+the software by using these symbolic forms chosen by the designers. And since the fabric is also an instrument for
+public performance, it was also important that the symbolic vocabulary was as expressive as possible. 
+
+![Figure 2. Marco Marini performing on XY Interface during the opening of Haptosonics exhibition at Atelier Nord Oslo.](images/haptosonic-exib.png)
+
+### Center of Attention
+
+Center of Attention is an interactive installation by Luke Fischbeck where the visitors are invited to create their own spontaneous compositions using the same synthesizer and by touching a series of robes as well as by touching one another on the skin. Touch is seen in this context as a form of social exchange, while the physical interaction is connected to sounds and sensory information determining the form of sound objects we are making together. The performance is at the center of the installation and depending on the touch patterns (which robes are touched), it recalls different sound patterns. The complexity of the installation depends on the number of the visitors and the way they interact to each other. 
+
+![Figure 3. Centre of Attention Installation. Scenes of public performance during the opening of Haptosonics exhibition at Atelier Nord in October 2013. Photo credits: Atelier Nord, Oslo.](images/centre-of-attention-installation.png)
+
+### Hedgehog Fabric
+
+Hedgehog Fabric is an interactive textile installation inspired by the way hedgehogs react to different sound stimuli. It is a project which tries to draw attention to the increased noise pollution. The rhythms of modern city life is generally accompanied by an increased, excessive environmental noise that disrupts in human life. The Hedgehog Fabric combines flexible dynamic textiles structures controlled electronically with the help of an Arduino board. When the intensity of sound increases, the dynamic structures will set out its “Spines” becoming unfriendly in order to protect itself. Contrary to the other works presented into the framework of Haptosonics exhibition, the installation does not produce sound, but react to sound. It is the sound that touches and puts into motion the textiles dynamic structures. 
+
+## Conclusion 
+
+In this paper I presented a series of works which were part of Haptosonics exhibition. By describing them and by calling into attention the status of the specificity of the materials, I put into the discussion the status of electronic and reactive textiles aesthetics. I questioned notions like texture, touch and sound and the way they establish correlations to each other. As the works presented show, electronic textiles open a new language that connects traditionally opposing fields like interactive communication technologies with textiles and soft materials. Still, we have to have in mind that the aesthetics of electronic and reactive textiles and that of traditional textiles balance and enrich each other. Parallel to the textiles traditional aesthetic efficiency, the electronic and reactive textiles “new expressivity” is still to be researched and tested. The different layers of composition between textiles and electronic augment or distort the traditional qualities of textiles. As we have showed through our curatorial project, the aesthetics of electronic and reactive textiles it is not only about making appeal to the common apprehensions, or about reinventing new forms of apprehension, but it is about approaching them in a complementary way. Moreover, the performativity of electronic textiles push us to pay attention to the convergence between textiles and our own interaction with them and through them. It is precisely the complexity of these forms of interactivity that makes electronic textiles source of reflexive material and bring into the question not only the elements that compose the electronic and reactive textiles medium, but also their content and significance.
 
