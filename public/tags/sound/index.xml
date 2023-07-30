@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sound on Bdmeter</title>
+    <link>https://bdmeter.info/tags/sound/</link>
+    <description>Recent content in sound on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/sound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haptic And Sound Correlations In Textiles</title>
+      <link>https://bdmeter.info/blog/2023/07/haptic-and-sound-correlations-in-textiles/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/07/haptic-and-sound-correlations-in-textiles/</guid>
+      <description>Introduction: If some time ago textile materials were considered good sound insulators, their present programmability is about to change their definition, transforming them into musical instruments and tools of sound measurement and visualization. By comparison to the analogue world, the notions of texture and touch are gaining new connotations, while the new textures and ‘smart gestures’ are introducing a new expressivity. Following a series of inquiries in physical computing, the present text will present a series of new configurations between texture, touch and sound and the connections between them in both analogue and digital environments.</description>
+    </item>
+    
+  </channel>
+</rss>
