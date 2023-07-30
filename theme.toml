@@ -5,27 +5,27 @@ description = "The BDmeter theme Framework"
 homepage = "https://github.com/ronibd0/bdmeter.info"
 demosite = "https://bdmeter.info/"
 categories = [
-    "business",
-    "industry",
-    "climate",
-    "finance",
-    "building-material",
-    "meatal-industry",
-    "textile",
-    "environment",
-    "information",
-    "media",
-    "technology",
-    "research",
-    "human-resource",
-    "cosmetic-industry",
-    "plastic-industry",
-    "electronics",
-    "oil-gas-industry",
-    "future",
-    "economy",
-    "life-style",
-    "health"
+    "Business",
+    "Industry",
+    "Climate",
+    "Finance",
+    "Building-material",
+    "Meatal-industry",
+    "Textile",
+    "Environment",
+    "Information",
+    "Media",
+    "Technology",
+    "Research",
+    "Human-resource",
+    "Cosmetic-industry",
+    "Plastic-industry",
+    "Electronics",
+    "Oil-gas-industry",
+    "Future",
+    "Economy",
+    "Life-style",
+    "Health"
 ]
 features = ["search", "flexible", "modular"]
 [author]
