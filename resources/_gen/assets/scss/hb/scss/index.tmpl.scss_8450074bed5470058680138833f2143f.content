@@ -9486,6 +9486,11 @@ textarea.form-control-lg {
   .hb-docs-doc-toc-collapse {
     display: block !important; } }
 
+.hb-featured-img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  max-height: 480px; }
+
 .hb-content-panel-wrapper {
   bottom: 20px;
   opacity: 0.875; }
@@ -9505,11 +9510,6 @@ textarea.form-control-lg {
 
 .hb-content-panel-translations .dropdown-menu {
   min-width: 1px; }
-
-.hb-featured-img {
-  -o-object-fit: cover;
-     object-fit: cover;
-  max-height: 480px; }
 
 /*! purgecss start ignore */
 :root {
@@ -10108,6 +10108,21 @@ body {
       text-decoration: underline; }
 
 /* stylelint-enable selector-id-pattern */
+/*! purgecss start ignore */
+.snackbars {
+  position: fixed;
+  bottom: 10vh;
+  left: 50%;
+  transform: translateX(-50%); }
+
+.snackbar {
+  background: #323232;
+  border-radius: 0.25rem;
+  color: white;
+  margin: 0.25rem;
+  padding: 0.5rem 1rem; }
+
+/*! purgecss end ignore */
 .archives {
   margin-left: 10px; }
 
@@ -10307,21 +10322,6 @@ body {
   width: 100px; }
 
 /*! purgecss start ignore */
-.snackbars {
-  position: fixed;
-  bottom: 10vh;
-  left: 50%;
-  transform: translateX(-50%); }
-
-.snackbar {
-  background: #323232;
-  border-radius: 0.25rem;
-  color: white;
-  margin: 0.25rem;
-  padding: 0.5rem 1rem; }
-
-/*! purgecss end ignore */
-/*! purgecss start ignore */
 .highlight {
   position: relative; }
   .highlight:hover .code-block-panel, .highlight:focus .code-block-panel {
@@ -10390,65 +10390,6 @@ body {
 
 .hb-back-to-top-icon {
   display: flex; }
-
-/*! purgecss end ignore */
-/*! purgecss start ignore */
-.hb-carousel .carousel-img-placeholder {
-  background: rgba(var(--hb-body-color-rgb), 0.1); }
-
-.hb-carousel .carousel-img,
-.hb-carousel .carousel-img-placeholder {
-  height: 240px;
-  -o-object-fit: cover;
-     object-fit: cover; }
-
-@media (min-width: 768px) {
-  .hb-carousel .carousel-img,
-  .hb-carousel .carousel-img-placeholder {
-    height: 320px; } }
-
-.hb-carousel .carousel-caption {
-  bottom: 0;
-  left: 0;
-  padding: 0.75rem 1rem 2.25rem;
-  opacity: 0.75;
-  right: 0; }
-
-.hb-carousel .carousel-img-placeholder,
-.hb-carousel .carousel-caption {
-  background: rgba(0, 0, 0, 0.75); }
-
-.hb-carousel .carousel-link {
-  color: rgba(255, 255, 255, 0.75); }
-  .hb-carousel .carousel-link:hover {
-    color: white; }
-
-.hb-carousel .carousel-indicators {
-  bottom: 0.5rem;
-  justify-content: start;
-  margin: 0 0.825rem; }
-  .hb-carousel .carousel-indicators [data-bs-target] {
-    background-color: #fff !important;
-    border-radius: 50%;
-    border-top: 5px solid transparent;
-    border-bottom: 5px solid transparent;
-    height: 15px;
-    width: 15px;
-    margin: 0 5px;
-    padding: 2px; }
-  .hb-carousel .carousel-indicators [aria-current="true"] {
-    background-color: var(--hb-primary) !important; }
-
-.hb-carousel .carousel-controls {
-  bottom: 0.5rem;
-  position: absolute;
-  right: 1.25rem;
-  z-index: 3; }
-  .hb-carousel .carousel-controls .carousel-control {
-    text-decoration: none;
-    color: rgba(255, 255, 255, 0.75); }
-    .hb-carousel .carousel-controls .carousel-control:hover {
-      color: white; }
 
 /*! purgecss end ignore */
 /*! purgecss start ignore */
@@ -10760,6 +10701,65 @@ body {
 
 /* GenericUnderline */
 /* TextWhitespace */
+/*! purgecss end ignore */
+/*! purgecss start ignore */
+.hb-carousel .carousel-img-placeholder {
+  background: rgba(var(--hb-body-color-rgb), 0.1); }
+
+.hb-carousel .carousel-img,
+.hb-carousel .carousel-img-placeholder {
+  height: 240px;
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+@media (min-width: 768px) {
+  .hb-carousel .carousel-img,
+  .hb-carousel .carousel-img-placeholder {
+    height: 320px; } }
+
+.hb-carousel .carousel-caption {
+  bottom: 0;
+  left: 0;
+  padding: 0.75rem 1rem 2.25rem;
+  opacity: 0.75;
+  right: 0; }
+
+.hb-carousel .carousel-img-placeholder,
+.hb-carousel .carousel-caption {
+  background: rgba(0, 0, 0, 0.75); }
+
+.hb-carousel .carousel-link {
+  color: rgba(255, 255, 255, 0.75); }
+  .hb-carousel .carousel-link:hover {
+    color: white; }
+
+.hb-carousel .carousel-indicators {
+  bottom: 0.5rem;
+  justify-content: start;
+  margin: 0 0.825rem; }
+  .hb-carousel .carousel-indicators [data-bs-target] {
+    background-color: #fff !important;
+    border-radius: 50%;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    padding: 2px; }
+  .hb-carousel .carousel-indicators [aria-current="true"] {
+    background-color: var(--hb-primary) !important; }
+
+.hb-carousel .carousel-controls {
+  bottom: 0.5rem;
+  position: absolute;
+  right: 1.25rem;
+  z-index: 3; }
+  .hb-carousel .carousel-controls .carousel-control {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75); }
+    .hb-carousel .carousel-controls .carousel-control:hover {
+      color: white; }
+
 /*! purgecss end ignore */
 .hb-breadcrumb {
   --hb-breadcrumb-margin-bottom: 0;

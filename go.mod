@@ -56,6 +56,7 @@ require (
 	github.com/hbstack/search v0.1.7 // indirect
 	github.com/hbstack/slide v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
+	github.com/hbstack/syntax-highlighting/styles/github-dark v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
 	github.com/hugomods/bootstrap v0.6.2 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
@@ -63,7 +64,10 @@ require (
 	github.com/hugomods/google-adsense v0.1.0 // indirect
 	github.com/hugomods/google-analytics v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
+	github.com/hugomods/icons/vendors/feather v0.2.0 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
+	github.com/hugomods/icons/vendors/mdi v0.3.0 // indirect
+	github.com/hugomods/icons/vendors/tabler v0.15.6 // indirect
 	github.com/hugomods/katex v0.2.0 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
 	github.com/hugomods/search v0.4.3 // indirect
