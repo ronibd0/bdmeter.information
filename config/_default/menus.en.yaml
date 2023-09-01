@@ -9,16 +9,16 @@ main:
         vendor: font-awesome-solid
         name: headset
 
-  - name: Contact
+  - name: News
     parent: support
-    url: page/2023/03/2023-03-17-contact
+    url: https://news.bdmeter.info
     weight: 1
     params:
       icon:
         vendor: font-awesome-solid
-        name: headset
+        name: newspaper
         className: text-primary
-      description: Contact us.
+      description: Real-time news update
 
   - identifier: support-divider
     parent: support
