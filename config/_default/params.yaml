@@ -9,14 +9,14 @@ hb:
       kofi: ronibd0
       paypal: ronibd0
       twitter: ronibd0
-      mastodon: ronibd0
+      mastodon: bdmeter
   footer:
     socials:
       github: bdmeter
       kofi: ronibd0
       paypal: ronibd0
       twitter: ronibd0
-      mastodon: ronibd0
+      mastodon: bdmeter
   blog:
     paginate: 12 # paginate.
     home: # homepage settings.
