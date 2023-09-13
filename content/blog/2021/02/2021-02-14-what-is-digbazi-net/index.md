@@ -21,7 +21,7 @@ Learn more about digbazi.net - Local FTP server for entertainment and Islamic bo
 
 ## HOW TO CONNECT WITH DIGBAZI FTP?
 
-digbazi is a largest ftp server in Khulna Bangladesh. digbazi have movie server of hollywood, bollywoo, bangla, international movies, tv shows, gaming server, tutorial, books, documentery, hadish, quran, live tv channel more than 100 channel fully HD all in hone offered only with ssali isp and cogent broadband internet connection.
+digbazi is a largest ftp server in Khulna Bangladesh. digbazi have movie server of hollywood, bollywoo, bangla, international movies, tv shows, gaming server, tutorial, books, documentery, hadish, quran, live tv channel more than 100 channel fully HD all in hone offered only with ssali isp and Amazon Internet internet connection.
 
 Digbazi server address:
 

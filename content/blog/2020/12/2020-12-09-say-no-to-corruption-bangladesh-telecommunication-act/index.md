@@ -28,4 +28,4 @@ tags:
 
 In that case, the act of the proposer in the case of clause (a) and the proposer and the sender in the case of clause (b) shall be an offense and hence the proposer or, the sender or, as the case may be, both imprisonment of not more than 2 (two) years or not more than 5 (five) crores. The money shall be punishable by fine or both and in case of clause (c) the sender shall be punishable by imprisonment not exceeding 5 (five) years or by fine not exceeding 5 (five) lakhs and by non-payment 03 (three) months imprisonment. ”
 
-\-- An article published by - [Cogent Broadband](https://cogentbroadband.net/)
+\-- An article published by - [Amazon Internet](https://khulnaflix.online/)

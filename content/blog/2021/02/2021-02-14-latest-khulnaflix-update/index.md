@@ -13,7 +13,7 @@ tags:
 ###   
 Learn more about khulnaflix.net, the largest FTP server for entertainment
 
-Khulnaflix is a largest ftp server in Khulna Bangladesh. Khulnaflix have movie server of hollywood, bollywoo, bangla, international movies, tv shows, gaming server, tutorial, books, documentery, hadish, quran, live tv channel more than 100 channel fully HD all in hone offered only with ssali isp and cogent broadband internet connection.
+Khulnaflix is a largest ftp server in Khulna Bangladesh. Khulnaflix have movie server of hollywood, bollywoo, bangla, international movies, tv shows, gaming server, tutorial, books, documentery, hadish, quran, live tv channel more than 100 channel fully HD all in hone offered only with ssali isp and Amazon Internet internet connection.
 
 ## **Khulnaflix server address:**
 
@@ -43,62 +43,62 @@ You have accessibility to Khulnaflix.net. If you cant connect there, but your IP
 
 ### TO SEE HOLLYWOOD MOVIES IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Hollywood%20Movie/](http://file.khulnaflix.net/Movies/Hollywood%20Movie/)
+- [http://khulnaflix.online/Movies/Hollywood%20Movie/](http://khulnaflix.online/Movies/Hollywood%20Movie/)
 
 ### TO SEE HOLLYWOOD LATEST 2021 MOVIES IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Hollywood%20Movie/2021/](http://file.khulnaflix.net/Movies/Hollywood%20Movie/2021/)
+- [http://khulnaflix.online/Movies/Hollywood%20Movie/2021/](http://khulnaflix.online/Movies/Hollywood%20Movie/2021/)
 
 ### TO SEE BOLLYWOOD MOVIES IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Bollywood%20Movie/](http://file.khulnaflix.net/Movies/Bollywood%20Movie/)
+- [http://khulnaflix.online/Movies/Bollywood%20Movie/](http://khulnaflix.online/Movies/Bollywood%20Movie/)
 
 ### TO SEE BOLLYWOOD LATEST 2021 MOVIES IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Bollywood%20Movie/2021/](http://file.khulnaflix.net/Movies/Bollywood%20Movie/2021/)
+- [http://khulnaflix.online/Movies/Bollywood%20Movie/2021/](http://khulnaflix.online/Movies/Bollywood%20Movie/2021/)
 
 ### TO SEE SOUTH INDIAN MOVIES IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/South%20Indian%20Movie/](http://file.khulnaflix.net/Movies/South%20Indian%20Movie/)
+- [http://khulnaflix.online/Movies/South%20Indian%20Movie/](http://khulnaflix.online/Movies/South%20Indian%20Movie/)
 
 ### TO SEE MOVIE PACK COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Movie%20Pack%20Collection/](http://file.khulnaflix.net/Movies/Movie%20Pack%20Collection/)
+- [http://khulnaflix.online/Movies/Movie%20Pack%20Collection/](http://khulnaflix.online/Movies/Movie%20Pack%20Collection/)
 
 ### TO SEE INTERNATIONAL MOVIE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/International%20Movie/](http://file.khulnaflix.net/Movies/International%20Movie/)
+- [http://khulnaflix.online/Movies/International%20Movie/](http://khulnaflix.online/Movies/International%20Movie/)
 
 ### TO SEE INDIAN BANGLA MOVIE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Indian%20Bangla%20Movie/](http://file.khulnaflix.net/Movies/Indian%20Bangla%20Movie/)
+- [http://khulnaflix.online/Movies/Indian%20Bangla%20Movie/](http://khulnaflix.online/Movies/Indian%20Bangla%20Movie/)
 
 ### TO SEE BANGLA MOVIE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Bangladeshi%20Movie/](http://file.khulnaflix.net/Movies/Bangladeshi%20Movie/)
+- [http://khulnaflix.online/Movies/Bangladeshi%20Movie/](http://khulnaflix.online/Movies/Bangladeshi%20Movie/)
 
 ### TO SEE BANGLA MOVIE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Bangladeshi%20Movie/](http://file.khulnaflix.net/Movies/Bangladeshi%20Movie/)
+- [http://khulnaflix.online/Movies/Bangladeshi%20Movie/](http://khulnaflix.online/Movies/Bangladeshi%20Movie/)
 
 ### TO SEE ANIMATION MOVIE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Movies/Animation%20Movie/](http://file.khulnaflix.net/Movies/Animation%20Movie/)
+- [http://khulnaflix.online/Movies/Animation%20Movie/](http://khulnaflix.online/Movies/Animation%20Movie/)
 
 ### TO SEE TV SHOWS COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Tv%20Show/](http://file.khulnaflix.net/Tv%20Show/)
+- [http://khulnaflix.online/Tv%20Show/](http://khulnaflix.online/Tv%20Show/)
 
 ### TO SEE PC GAMING SERVER COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Game/PC%20GAME/](http://file.khulnaflix.net/Game/PC%20GAME/)
+- [http://khulnaflix.online/Game/PC%20GAME/](http://khulnaflix.online/Game/PC%20GAME/)
 
 ### TO SEE PC SOFTWARE COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Software/](http://file.khulnaflix.net/Software/)
+- [http://khulnaflix.online/Software/](http://khulnaflix.online/Software/)
 
 ### TO SEE TUTORIAL COLLECTION IN KHULNAFLIX:
 
-- [http://file.khulnaflix.net/Tutorial/](http://file.khulnaflix.net/Tutorial/)
+- [http://khulnaflix.online/Tutorial/](http://khulnaflix.online/Tutorial/)
 
 Edited by [BDMETER](https://bdmeter.info/)
