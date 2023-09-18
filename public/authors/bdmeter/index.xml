@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Jun 2023 22:42:23 +0800</lastBuildDate><atom:link href="https://bdmeter.info/authors/bdmeter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/authors/bdmeter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garment / Textile Supply Chain Management</title>
+      <link>https://bdmeter.info/docs/business/textile/garment-supply-chain-management/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/docs/business/textile/garment-supply-chain-management/</guid>
+      <description>Supply Chain Management Overview What is it? Supply chain strategies Purchasing -&amp;gt; Read Outsourcing Partnering Managing the supply chain Postponement Channel assembly READ others Efficient vs. responsive supply chain Vendor selection -&amp;gt; Read Coordinates and manages all activities of the supply chain Components of the supply chain: External distribution Internal functions External suppliers Watch full powepoint slideshow: </description>
+    </item>
+    
     <item>
       <title>Business plan guide</title>
-      <link>https://bdmeter.info/docs/installation/industry/business-plan/</link>
+      <link>https://bdmeter.info/docs/business/industry/business-plan/</link>
       <pubDate>Fri, 16 Jun 2023 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/industry/business-plan/</guid>
+      <guid>https://bdmeter.info/docs/business/industry/business-plan/</guid>
       <description>This guide show you how to create a business plan initially to develop a freelancr platform.
 Example 1: Business plan for a freelancer agency Certainly! Below is a business plan for a freelancing platform that leverages the capabilities of GPT-4 to refine project descriptions until they are complete enough for an accurate evaluation.
 Executive Summary Business Name: ClarityFreelance Business Structure: Online Freelancing Platform Location: Web-based with global access Unique Value Proposition: Leveraging AI (GPT-4) to streamline and optimize project descriptions for a more effective freelancing experience.</description>
@@ -21,10 +30,10 @@ Executive Summary Business Name: ClarityFreelance Business Structure: Online Fre
     
     <item>
       <title>The Industrial Revolution: A Transformational Era Shaping Our Modern World</title>
-      <link>https://bdmeter.info/docs/installation/industry/industry-revolution/</link>
+      <link>https://bdmeter.info/docs/business/industry/industry-revolution/</link>
       <pubDate>Tue, 16 May 2023 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/industry/industry-revolution/</guid>
+      <guid>https://bdmeter.info/docs/business/industry/industry-revolution/</guid>
       <description>The Industrial Revolution stands as a turning point in human history, marking a radical shift from agrarian societies to industrialized nations. Spanning from the late 18th to the early 19th century, this transformative period brought about profound changes in technology, manufacturing, transportation, and society at large. In this 15,000-word blog, we will delve into the various facets of the Industrial Revolution, exploring its causes, impact, and lasting legacy.
 I. Prelude to Change: The Factors Igniting the Industrial Revolution 1.</description>
     </item>
@@ -43,30 +52,30 @@ You can write us directly. Our email address bdmeter.info@gmail.com
     
     <item>
       <title>Industrial financial plan</title>
-      <link>https://bdmeter.info/docs/installation/industry/financial-plan/</link>
+      <link>https://bdmeter.info/docs/business/industry/financial-plan/</link>
       <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/industry/financial-plan/</guid>
+      <guid>https://bdmeter.info/docs/business/industry/financial-plan/</guid>
       <description>Learn how to prepare financial plan to setup a new industry with Bdmeter
 coming soon! </description>
     </item>
     
     <item>
       <title>Industrial management installation guide</title>
-      <link>https://bdmeter.info/docs/installation/management/industrial-management/</link>
+      <link>https://bdmeter.info/docs/business/management/industrial-management/</link>
       <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/management/industrial-management/</guid>
+      <guid>https://bdmeter.info/docs/business/management/industrial-management/</guid>
       <description>Learn about industrial management installation
 coming soon! </description>
     </item>
     
     <item>
       <title>Building guide</title>
-      <link>https://bdmeter.info/docs/installation/building/</link>
+      <link>https://bdmeter.info/docs/business/building/</link>
       <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/building/</guid>
+      <guid>https://bdmeter.info/docs/business/building/</guid>
       <description>Step by step installation process of a building. This guide of installation of a building will help us to know how to build small to large scale category building by self.
 PRINCIPLES OF ARCHITECTURE A building is an assemblage that is firmly attached to the ground and that provides
 SYSTEMS DESIGN AND ANALYSIS Systems design comprises a logical series of steps that leads to the best
@@ -75,34 +84,22 @@ TRADITIONAL CONSTRUCTION PROCEDURES Systems design of buildings requires a diffe
     
     <item>
       <title>Safety installation guide</title>
-      <link>https://bdmeter.info/docs/installation/safety/</link>
+      <link>https://bdmeter.info/docs/business/safety/</link>
       <pubDate>Tue, 06 Sep 2022 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/safety/</guid>
+      <guid>https://bdmeter.info/docs/business/safety/</guid>
       <description>Learn how to install safety plan for your home and industry
 coming soon! </description>
     </item>
     
     <item>
       <title>Corporate management installation guide</title>
-      <link>https://bdmeter.info/docs/installation/management/corporate-management/</link>
+      <link>https://bdmeter.info/docs/business/management/corporate-management/</link>
       <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
       
-      <guid>https://bdmeter.info/docs/installation/management/corporate-management/</guid>
+      <guid>https://bdmeter.info/docs/business/management/corporate-management/</guid>
       <description>Learn about installation of corporate management for your business
 coming soon! </description>
-    </item>
-    
-    <item>
-      <title>Standard Operations Guide</title>
-      <link>https://bdmeter.info/docs/operations/</link>
-      <pubDate>Sun, 06 Mar 2022 22:42:23 +0800</pubDate>
-      
-      <guid>https://bdmeter.info/docs/operations/</guid>
-      <description>&lt;p&gt;This guide will help us to learn about different business and industrial operations&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;coming soon!&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

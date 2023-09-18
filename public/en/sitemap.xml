@@ -2,13 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bdmeter.info/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>https://bdmeter.info/authors/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/blog/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>https://bdmeter.info/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/authors/bdmeter/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/docs/business/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/categories/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/channel-assembly/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/docs/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/efficient-vs.-responsive-supply-chain/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/external-distribution/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/external-suppliers/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/series/guide/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/internal-functions/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/outsourcing/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/partnering/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/postponement/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/purchasing/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/series/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/categories/supply-chain-management/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/supply-chain-strategies/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/tags/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/docs/business/textile/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/docs/business/textile/garment-supply-chain-management/</loc>
+    <lastmod>2023-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bdmeter.info/blog/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/dynamic-textile-patterns/</loc>
@@ -30,9 +90,6 @@
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/sound-sensors/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/tags/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/categories/textile/</loc>
@@ -140,16 +197,10 @@
     <loc>https://bdmeter.info/tags/traditional-construction/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/authors/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/authors/bdmeter/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://bdmeter.info/categories/business/</loc>
     <lastmod>2023-06-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/industry/business-plan/</loc>
+    <loc>https://bdmeter.info/docs/business/industry/business-plan/</loc>
     <lastmod>2023-06-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/business-plan-guide/</loc>
@@ -158,19 +209,7 @@
     <loc>https://bdmeter.info/tags/business-planning/</loc>
     <lastmod>2023-06-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/series/guide/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/docs/installation/industry/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/docs/installation/</loc>
-    <lastmod>2023-06-16T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/series/</loc>
+    <loc>https://bdmeter.info/docs/business/industry/</loc>
     <lastmod>2023-06-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/aviation-dress/</loc>
@@ -302,7 +341,7 @@
     <loc>https://bdmeter.info/tags/tech-revolution/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/industry/industry-revolution/</loc>
+    <loc>https://bdmeter.info/docs/business/industry/industry-revolution/</loc>
     <lastmod>2023-05-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/blog/2023/05/building-costs/</loc>
@@ -1382,7 +1421,7 @@
     <loc>https://bdmeter.info/tags/factory-management/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/industry/financial-plan/</loc>
+    <loc>https://bdmeter.info/docs/business/industry/financial-plan/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/financial-plan/</loc>
@@ -1391,7 +1430,7 @@
     <loc>https://bdmeter.info/categories/industrial-management/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/management/industrial-management/</loc>
+    <loc>https://bdmeter.info/docs/business/management/industrial-management/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/industrial-management/</loc>
@@ -1406,7 +1445,7 @@
     <loc>https://bdmeter.info/tags/management/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/management/</loc>
+    <loc>https://bdmeter.info/docs/business/management/</loc>
     <lastmod>2022-10-16T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/management-guidelines/</loc>
@@ -1514,7 +1553,7 @@
     <loc>https://bdmeter.info/tags/wavelengths/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/building/</loc>
+    <loc>https://bdmeter.info/docs/business/building/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/categories/building-structure/</loc>
@@ -1538,13 +1577,13 @@
     <loc>https://bdmeter.info/tags/persona-safety/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/safety/</loc>
+    <loc>https://bdmeter.info/docs/business/safety/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/safety-guide/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://bdmeter.info/docs/installation/management/corporate-management/</loc>
+    <loc>https://bdmeter.info/docs/business/management/corporate-management/</loc>
     <lastmod>2022-09-04T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/corporate-management-guide/</loc>
@@ -2899,9 +2938,6 @@
   </url><url>
     <loc>https://bdmeter.info/tags/wheatstone-bridge/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bdmeter.info/docs/operations/</loc>
-    <lastmod>2022-03-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/tags/antifreeze-systems/</loc>
     <lastmod>2022-02-26T00:00:00+00:00</lastmod>
@@ -6345,6 +6381,8 @@
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bdmeter.info/archives/</loc>
+  </url><url>
+    <loc>https://bdmeter.info/docs/health/</loc>
   </url><url>
     <loc>https://bdmeter.info/authors/markweber/</loc>
   </url><url>
